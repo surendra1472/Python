@@ -263,7 +263,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desingPatterns/MySingleton.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alorithms_and_ds/MySingleton.py" />
+>>>>>>> 7765c13b20d7d1f283cf85f551736196cb230161
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +288,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desingPatterns/MySingletonWithDecorator.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alorithms_and_ds/MySingletonWithDecorator.py" />
+>>>>>>> 7765c13b20d7d1f283cf85f551736196cb230161
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
